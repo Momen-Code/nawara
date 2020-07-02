@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132.417" height="134.396" viewBox="0 0 132.417 134.396">
+  <g id="airplane" transform="translate(99.505 -3.191) rotate(71)">
+    <path id="Path_41" data-name="Path 41" d="M6.858,287.509,0,294.367,25.007,310.5l14.036-25Z" transform="translate(0 -220.701)" fill="#f5df85"/>
+    <path id="Path_42" data-name="Path 42" d="M107.963,342.95l15.959,25.11,6.858-6.858,2.011-32.185Z" transform="translate(-84.149 -254.622)" fill="#f5cb47"/>
+    <path id="Path_43" data-name="Path 43" d="M309.367,152.037l-25.226,27.244,31.605,50.92,12.145-12.146Z" transform="translate(-221.465 -116.679)" fill="#f5cb47"/>
+    <path id="Path_44" data-name="Path 44" d="M15.225,27.2,3.093,39.329l50.935,31.59L81.275,45.691Z" transform="translate(-2.411 -19.376)" fill="#f5df85"/>
+    <path id="Path_45" data-name="Path 45" d="M180.978,5.721l-85,85L92.945,87.7l2.923-7.462c4-9.092,8.239-15.6,13.744-21.105L150.9,17.849A65.862,65.862,0,0,1,171.707,4.31l.763-.326A7.584,7.584,0,0,1,180.857,5.6Z" transform="translate(-72.443 -0.798)" fill="#edf5ff"/>
+    <path id="Path_46" data-name="Path 46" d="M193.952,23.1c-3.179,7.42-7.025,15.191-13.59,21.754L139.03,86.187C132.547,92.67,124.946,96.515,117.7,99.7l-.126.053-7.334,2.87-3.562-3.562,85-85,.657.657A7.576,7.576,0,0,1,193.952,23.1Z" transform="translate(-83.145 -9.137)" fill="#d5e8fe"/>
+  </g>
+</svg>
