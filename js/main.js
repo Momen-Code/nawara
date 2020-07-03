@@ -1,3 +1,5 @@
+                            //slider1
+
 var swiper = new Swiper('.swiper-container', {
     navigation: {
       nextEl: '.swiper-button-next',
@@ -9,17 +11,25 @@ var swiper = new Swiper('.swiper-container', {
 
 
 
+                            //slider2
 
-
-  var swiper2 = new Swiper('.swiper-container2', {
-    spaceBetween: 30,
+var appendNumber = 4;
+var prependNumber = 1;
+var swiper2 = new Swiper('.swiper-container2', {
+    slidesPerView: 4,
     centeredSlides: true,
+    spaceBetween: 30,
     autoplay: {
-      delay: 2500,
-      disableOnInteraction: false,
+    delay: 2500,
+    disableOnInteraction: false,
     },
     pagination: {
-      el: '.swiper-pagination2',
-      clickable: true,
+    el: '.swiper-pagination2',
+    clickable: true,
     },
-  });
+
+});
+
+
+                            //burgur
+
